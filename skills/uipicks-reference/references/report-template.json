@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "request": {
+    "text": "",
+    "hardConditions": [],
+    "preferences": [],
+    "assumptions": []
+  },
+  "scope": {
+    "description": "",
+    "budget": "",
+    "claim": "within-reviewed-scope",
+    "stopReason": "",
+    "stopDetail": "",
+    "gaps": []
+  },
+  "searches": [],
+  "candidates": [],
+  "recommendations": [],
+  "challenge": {
+    "status": "not-performed",
+    "searchIds": [],
+    "candidateIds": [],
+    "outcome": "not-performed",
+    "reason": ""
+  }
+}
